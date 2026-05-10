@@ -3,7 +3,7 @@
     "logo":{
         "source": "/home/ilydien/Downloads/__Get_your_head_in_the_game_with_this_well-constructed_baseball-style_cap___Structured__medium-to-high-profile_crown_with_curved_bill_and_firm_inner_lining___Snapback_closure_for_adjustable_fit___100_.png",
         "type": "kitty",
-        "height": 15,
+        "height": 13,
         "padding":{
       "top": 1,
       "left": 2
@@ -11,7 +11,7 @@
     },
     "display": { "separator": " " },
     "modules": [
-        { "type": "title", "format": "dien@ilydien" },
+        { "type": "title", "format": "dien@cachyos" },
         { "key": "╭───────────╮", "type": "custom", "format": "" },
         { "key": "│  user    │", "type": "title", "format": "{user-name}" },
         { "key": "│ 󰅐 uptime  │", "type": "uptime" },
@@ -20,8 +20,6 @@
         { "key": "│  wm      │", "type": "wm" },
         { "key": "│  term    │", "type": "terminal" },
         { "key": "│  shell   │", "type": "shell" },
-        { "key": "│ 󰍛 cpu     │", "type": "cpu", "showPeCoreCount": true },
-        { "key": "│ 󰢮 gpu     │", "type": "gpu", "format": "{1} {2} @ {12}" },      
         { "key": "│ 󰉉 disk    │", "type": "disk", "folders": "/" },
         { "key": "│  memory  │", "type": "memory" },
         { "key": "│  colors  │", "type": "colors", "symbol": "circle" },
